@@ -30,7 +30,9 @@ print("Total Words:",len(words))
 ```
 
 ### OUTPUT:
-![image](https://github.com/sharmitha3/command-line-arguments-to-count-word/assets/145974496/94a75482-c528-4eba-ac55-cff9edee4477)
+
+![image](https://github.com/sharmitha3/command-line-arguments-to-count-word/assets/145974496/57430fb8-d273-48f8-87fa-c78bc56b91ea)
+
 
 ![image](https://github.com/sharmitha3/command-line-arguments-to-count-word/assets/145974496/0eb7542f-7385-463d-beab-2713e2cde51f)
 
